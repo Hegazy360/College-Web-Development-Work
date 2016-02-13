@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>La région Rhône-Alpes</title>
+<style>
+
+img{
+     float:left;
+}
+
+div{
+     width:450px;
+     text-align:justify;
+     
+}
+
+</style>
+</head>
+<body>
+
+<div>
+<p> <img src="rhone_alpes.png" alt="Rhone Alpes Picture">Rhône-Alpes est une région française qui regroupe huit départements : l'Ain, l'Ardèche, la Drôme, l'Isère, la Loire, le Rhône, la Savoie et la Haute-Savoie. Son chef-lieu est Lyon, qui est aussi sa plus grande ville. C'est la deuxième région de France métropolitaine en superficie (après Midi-Pyrénées), en économie et en population (après Île-de-France). Elle est aussi classée 6e région  européenne. Elle est limitrophe des régions françaises Provence-Alpes-Côte d'Azur, Languedoc-Roussillon, Auvergne, Bourgogne et Franche-Comté, des régions italiennes de Val d'Aoste et Piémont, ainsi que des cantons suisses de Vaud, du Valais et de Genève. Schématiquement, la Région Rhône-Alpes représente le 1/10° de la France en termes économiques, démographiques et de superficie.</p>
+
+
+</div>
+
+
+</body>
+</html>

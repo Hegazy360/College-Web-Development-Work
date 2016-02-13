@@ -1,0 +1,42 @@
+body {
+    background-color: #ADD8E6;
+}
+
+p {
+    text-align: center;
+    color: #191970;
+}
+
+h1 { 
+    font: Georgia, sans-serif;
+}
+
+a { 
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration:underline;
+}
+
+ol {
+    list-style-type: lower-alpha;
+}
+
+table
+{
+    border: 1px solid black;
+}
+
+td
+{
+    text-align:right;
+    vertical-align:bottom;
+    padding:15px;
+}
+	
+cadre {
+    background-color: #FFFFFF;
+    height: 840px;
+}

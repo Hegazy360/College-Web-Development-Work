@@ -1,0 +1,39 @@
+
+        thead {
+        		   background-color: #5A8FE6;
+          		color: #FFFFFF;
+       		   text-align: center;
+          
+          } 
+          
+        tbody {
+			  		 background-color: #A6BDE3;    
+        }
+        
+        td {
+        
+					padding:10px 0px;        
+        			margin: auto auto auto auto;
+        			
+        }
+        
+        thead > tr  {
+      			  height: 60px;
+      			  
+        }
+      
+        table {
+        
+					border-collapse:collapse;
+					width:22%;
+					
+					
+        		
+        }
+        
+         li {
+				        
+        list-style-type: circle;
+        
+        }
+

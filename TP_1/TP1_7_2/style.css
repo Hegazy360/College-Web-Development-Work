@@ -1,0 +1,42 @@
+
+        thead {
+        		   background-color: #C4C4C4;
+          
+       		   text-align: center;
+          
+          } 
+          
+        tbody {
+			  		 background-color: #E6E6E6;    
+        }
+        
+        td {
+        
+					padding:5px 10px;        
+        			text-align: center;
+        
+        }
+        
+        thead > tr  {
+      			  height: 40px;
+        }
+        
+        tbody > tr {
+      			  height: 35px;
+       
+        }
+        
+        td:hover {
+			
+			        background-color: #808080;
+        }
+        
+        table {
+        
+					border-collapse:collapse;
+					width: 30%;        
+        		
+        }
+        
+        
+

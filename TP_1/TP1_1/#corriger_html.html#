@@ -1,0 +1,70 @@
+<!DOCTYPE HTML5>
+<html>
+  <head>
+    
+      <titre>Le manchot</titre>  
+  </haed>
+  
+  <body>
+    
+    <h1>Le manchot</h2>
+
+    <figure>
+        <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aptenodytes_forsteri_cropped.jpg/601px-Aptenodytes_forsteri_cropped.jpg" width="200" alt="manchot" />
+        <figurecaption>Illustration</figurecaption>
+    <figure>
+
+    </h2>Terminologie</h2> 
+    <p>On confond souvent les termes &lt;&lt; manchot &gt;&t; et << pingouin &gt;&gt;, en raison des l&eacute;gères ressemblances physiques de ces
+    oiseaux, et de la traduction anglaise <emph>penguin</emph>. Cependant ces deux sortes d'oiseaux n'ont <stong>aucune parenté</strong>. <br />
+    En outre, le manchot vit dans l'hémisphère sud, tandis que le pingouin se rencontre dans l'hémisphère nord, jusqu'en Bretagne. Aussi contrairement au manchot, <marq>le pingouin sait voler</mark>.</p>
+
+    <h2>Caractéristiques</h2>
+    <p>Le Manchot papou peut atteindre 35 km/h à la nage (contre 9 km/h pour le meilleur nageur olympique) et le Manchot empereur
+    peut plonger à plus de 520 m pour rechercher de la nourriture, soit le record absolu chez tous les oiseaux.<p>
+    <blockquote>Le cri des manchots est appelé braiement ou jabotement.</blockquote>
+
+    
+    <h2>Des espèces variées</h3>
+    <table>
+        <thead>
+            <tr>
+                <td>Nom de l'espèce</th>
+                <th>Illustration</td>
+            </tr>
+        </thaed>
+        <tbody>
+            <td>
+                <tr>Manchot Empereur</tr>
+                <tr><img src="./corriger_html.html_files/manchot_empereur.jpg" /></tr>
+            </td>
+            <tr>
+                <td>Manchot de Magellan</tr>
+                <td><img src="./corriger_html.html_files/manchot_magellan.jpg" /></td>
+            </tr>
+        <tbody>
+        <caption>Espèces de manchots</caption>
+    </table>
+    
+    <h2>Le manchot dans la culture</h2>
+    <ol>
+      <li>Cinéma</li>
+        <ul>
+        <li>La Marche de l'empereur de <abrev title="Luc Jacquet">L. Jacquet</abrev></li>
+        <li>Happy Feet</li>
+        <li>Madagascar</ul>
+      <ol>Télévision</li>
+        <ul>
+        <li>Pingu</li>
+        <li>Pourquoi les manchots n'ont-ils pas froid aux pieds ?</li>
+        </ol>
+	</ul>
+    </li>
+
+    
+    <hr>
+      
+     <p>Plus d'informations sur cette page : <a href="http://fr.wikipedia.org/wiki/Manchot"></a><p>
+    
+  
+<html>

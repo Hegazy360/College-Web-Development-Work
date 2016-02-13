@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Informatique à l'Université de Saint-Etienne</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body>
+    
+    <div id="contenant">
+
+      <header>
+	<h1>Département d'Informatique</h1>
+      </header>
+      
+      <nav>
+	<div id="lformation">
+	  <h3 class="formation">Formation</h3>
+	  <ul>
+	    <li><a href="">Licence</a></li>
+	    <li><a href="">Licence Pro</a></li>
+	    <li><a href="">Master</a></li>
+	  </ul>
+	</div>
+	<div id="lvie">
+	  <h3 class="vie">Vie étudiante</h3>
+	  <ul>
+	    <li><a href="">Se loger</a></li>
+	    <li><a href="">Se restaurer</a></li>
+	    <li><a href="">Se déplacer</a></li>
+	    <li><a href="">Se distraire</a></li>
+	  </ul>
+	</div>		
+	<div id="lannuaire">
+	  <h3 class="annuaire">Annuaire</h3>
+	  <ul>
+	    <li><a href="">Professeurs</a></li>
+	    <li><a href="">Maîtres de conférence</a></li>
+	    <li><a href="">ATER et moniteurs</a></li>
+	  </ul>
+	</div>
+      </nav>
+		
+      <div id="texte">
+	<h3>Situation géographique</h3>
+	<p class="p1">Faculté des Sciences et Techniques<br>23 rue du
+	docteur Paul Michelon<br>42023 Saint-Etienne cedex
+	2<br>France</p>
+	<p class="p2">Situé au pied du parc du Pilat, dans le quartier
+	de la Métare, au sud-est de St Etienne, le département
+	d'informatique est un des 7 départements qui composent la
+	Faculté des Sciences et Techniques, appartenant à l'université
+	Jean Monnet.</p>
+	
+	<h3>Cursus</h3>
+	<p class="p2">3 formations sont proposées :</p>
+	<ul>
+	  <li>La Licence d'Informatique : diplôme de niveau bac+3,
+	  permettant d'accéder à des emplois de type technicien
+	  supérieur. Sa finalité première est une poursuite d'études
+	  en Master d'Informatique.</li>
+	  <li>La Licence Professionnelle ATII (Animateur des
+	  Technologies de l'Information et de l'Internet) : de type
+	  bac+3, ouverte à des étudiants de niveau bac+2 pas
+	  nécessairement informaticiens. Elle vise à former des
+	  techniciens supérieurs capables de mener à bien des tâches
+	  de webmaster, d'assister des chefs de projets, de faire du
+	  consulting dans le domaine des TIC, etc. Cette licence ne
+	  permet pas d'intégrer un Master d'Informatique : comme toute
+	  licence professionnelle, son objectif est de déboucher sur
+	  un emploi en fin de formation.</li>
+	  <li>Un Master d'Informatique "Web Intelligence" : diplôme de
+	  niveau bac+5 permettant d'accéder à des emplois de cadre
+	  dans tous les domaines de l'Informatique, qui s'appuie sur
+	  les compétences des enseignants-chercheurs de Saint-Etienne,
+	  notamment le laboratoire Hubert Curien (UMR CNRS 5516) et de
+	  l'Ecole des mines de Saint-Etienne, dans les domaines de
+	  l'Intelligence Artificielle et des technologies du Web.</li>
+	</ul>
+      </div>
+      			
+      <footer>
+	<a href="">Site de l'UJM</a> 
+	<a href="">Contact</a> 
+	<a href="">Crédits</a> 
+	<a href="">Mentions légales</a>
+      </footer>
+    
+    </div>
+  
+  </body>
+</html>

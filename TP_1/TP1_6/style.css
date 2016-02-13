@@ -1,0 +1,77 @@
+body {
+font: 12px Georgia , sans-serif;
+line-height: 2;
+color: #555753;
+background-color: #CDCDCD;
+
+}
+
+p {
+text-align: justify;
+}
+
+h3 {
+font: italic 18px Georgia , sans-serif;
+letter-spacing: 1px;
+color: #8B0000;
+}
+
+a {
+
+font-weight: bold;
+text-decoration: none;
+color: #00008B;
+
+}
+
+#contenant{
+width: 840px;
+color: #FFFFFF;
+border: 1px solid black;
+margin: auto auto auto auto;
+
+}
+
+header{
+
+background-image: url("bandeau.jpg");
+background-position: center;
+background-repeat: no-repeat;
+text-align: right;
+height: 110px;
+width: 750px;
+padding: 30px 60px 30px 30px;
+}
+
+#texte{
+
+width: 650px;
+height: 650px;
+padding: 20px;
+}
+
+nav{
+
+font: 10px Verdana , sans-serif;
+background-color: #B7B7B7;
+width: 130px;
+height: 690px;
+padding: 10px;
+float: right;
+list-style-type: circle;
+}
+
+footer{
+text-align: center;
+width: 840px;
+height: 50px;
+background-color: #B7B7B7;
+margin-top: 20px;
+
+}
+
+footer > a{
+
+margin-right: 30px;
+
+}
