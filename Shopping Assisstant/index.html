@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Shopping Assisstant</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src=uilang.js></script>
+
+
+<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<p>Welcome to The Shopping Assisstant. <button class=rsvp>RSVP</button>
+<div id=overlay>
+  <div id=registration>
+    
+    <h1>You are Online</h1>
+    <a href=# class=close>Close</a>
+    <form>
+    <textarea type="textarea" readonly name="assisstant" id="assisstant" placeholder="Assisstant" ></textarea>
+    <br>
+	<textarea name="client" id="client" placeholder="Client"></textarea>
+	<button type="button" class="confirm" onClick="clic()">Send</button>
+	
+    </form>
+    
+  </div>
+</div>
+
+
+</form>
+
+<script>
+function clic()
+{
+   var data = document.getElementById("client").value;
+   
+   alert(s);
+}
+
+</script>
+
+</body>
+
+
+<code>
+  clicking on ".rsvp" adds class "open" on "#overlay"
+  clicking on ".close" removes class "open" on "#overlay"
+</code>
+</html>
