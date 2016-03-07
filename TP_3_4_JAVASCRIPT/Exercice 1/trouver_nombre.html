@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>TP3</title>
+  <meta name="TP3 and 4 exercices" content="">
+  <meta name="Mohamed Hegazi" content="SitePoint">
+  <script src="rules.js"></script>
+  <link rel="stylesheet" href="styles.css">
+
+ 
+</head>
+
+<body>
+ 
+ <h1>Trouver le nombre</h1>
+ <form> 
+ 
+ Rechercher un nombre entre :<input type = "number" max="99999" min="0" id="firstNumber" placeholder = "Premiere nombre" >
+ et : <input type = "number" max="99999" min="0" id="secondNumber" placeholder = "Deuxieme nombre">
+<button type="button" id="choisir" onClick="ChoisirNombre()" >Choisir</button>
+<br>
+<input type = "number" max="99999" min="1" id = "guess" placeholder = "Guess a number" oninput="CheckRange()" onkeyup="CheckRange()">
+<button type="button" id="checkGuess" onClick = "VerifierNombre()">Proposer</button><br>
+<input type = "text" id="resultat" readonly placeholder="Resultat"><br>
+ <button type="reset" id="reset">Reset Values</button>
+ </form>
+ 
+ 
+</body>
+</html>
