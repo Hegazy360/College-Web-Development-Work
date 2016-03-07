@@ -1,0 +1,63 @@
+body {
+	 font: 15px Georgia , sans-serif;
+	 color: #3B87A1;
+	 margin: auto;
+    width: 90%;
+    border: 3px solid #11495C;
+    padding: 10px;
+
+}
+
+h1 {
+	
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+h3 {
+	text-align: center;
+
+}
+
+#menu	{
+	margin:auto;
+	width: 600px;
+	padding-bottom: 15px;
+ 	columns: 2;
+  	-webkit-columns: 2;
+ 	-moz-columns: 2;
+	list-style-position: inside;
+	font-size: 20px;
+	
+}
+
+#pictures  {
+   margin: auto;
+   width: 80%;
+   
+}
+
+#pictures img
+{
+	border: 3px solid #11495C;
+	width:304px;
+	height:228px;
+
+}
+
+form {
+	font-size: 30px;
+	
+	margin:20px 20px;
+	text-align: inherit;
+
+}
+textarea {
+
+margin : auto;
+
+}
+
+
+

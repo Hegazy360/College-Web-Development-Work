@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+ 		<meta charset="utf-8" />
+		<title>Avions</title>
+		<link rel="stylesheet" href="style.css">
+		<script src="rules.js"></script>
+  </head>
+  
+  <body>
+  
+		<h1>Avions</h1>
+	  	
+	  	
+	  	
+  <div id="pictures">
+  		<img src="images/avions/1.jpg" alt="Avion 1" >
+		<img src="images/avions/2.jpg" alt="Avion 1" >
+		<img src="images/avions/3.jpg" alt="Avion 1" >
+		<img src="images/avions/4.jpg" alt="Avion 1" >
+		<img src="images/avions/5.jpg" alt="Avion 1" >
+		<img src="images/avions/6.jpg" alt="Avion 1" >
+		<img src="images/avions/7.jpg" alt="Avion 1" >
+		<img src="images/avions/8.jpg" alt="Avion 1" >
+		<img src="images/avions/9.jpg" alt="Avion 1" >
+		<img src="images/avions/10.jpg" alt="Avion 1">
+		<img src="images/avions/11.jpg" alt="Avion 1">
+		<img src="images/avions/12.jpg" alt="Avion 1">
+		<img src="images/avions/13.jpg" alt="Avion 1">
+		<img src="images/avions/14.jpg" alt="Avion 1">
+		<img src="images/avions/15.jpg" alt="Avion 1">
+		<img src="images/avions/16.jpg" alt="Avion 1">
+		<img src="images/avions/17.jpg" alt="Avion 1">
+		<img src="images/avions/18.jpg" alt="Avion 1">
+		<img src="images/avions/19.jpg" alt="Avion 1">
+		<img src="images/avions/20.jpg" alt="Avion 1">
+		<img src="images/avions/21.jpg" alt="Avion 1">
+		<img src="images/avions/22.jpg" alt="Avion 1">
+		<img src="images/avions/23.jpg" alt="Avion 1">
+		<img src="images/avions/24.jpg" alt="Avion 1">
+		<img src="images/avions/25.jpg" alt="Avion 1">
+		<img src="images/avions/26.jpg" alt="Avion 1">
+		<img src="images/avions/27.jpg" alt="Avion 1">
+		<img src="images/avions/28.jpg" alt="Avion 1">
+		<img src="images/avions/29.jpg" alt="Avion 1">
+  
+  </div>	  	
+	 
+ <div id="msgBox"></div>
+  
+  
+	<form>
+	   <h4>Ajouter un commentaire</h4>
+	  Nom:
+	  <input type="text" id="nom" name="nom" placeholder="Nom"><br>
+  	  Prenom:
+  	  <input type="text" id="prenom" name="prenom" placeholder="Prenom"><br>
+  	  Address email:
+  	  <input type="text" id="email" name="email" placeholder="E-mail"><br>
+  	  Message: 
+  	  <span id="charLeft">Test</span>	
+  	  <textarea id="message"></textarea><br>
+  	  <button type="button" onclick="verifyComment()">Envoyer</button>
+  	  
+	
+	</form>  
+  
+  
+  </body>
+  
+
+
+
+
+  
+</html>
