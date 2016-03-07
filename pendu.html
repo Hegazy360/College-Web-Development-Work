@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+ 
+  <meta charset="utf-8">
+  <title>TP3</title>
+  <meta name="TP3 and 4 exercices" content="">
+  <meta name="Mohamed Hegazi" content="SitePoint">
+  <link rel="stylesheet" href="style.css">
+
+ 
+</head>
+
+<body>
+
+ <form id="gameForm"> 
+ <button type="button" id="choisir" onClick="ChoisirMot()" >Commencer</button><br><br>
+ Mot a trouver :<input type = "text" readonly id="mot" placeholder = "Mot" >
+ Erreur(maximum 6) : <input type = "text" readonly max="6" min="0" id="erreurs" placeholder = "Erreurs" value = "0">
+ Lettres deja proposes : <input type = "text" readonly id="lettres" placeholder = "Lettres"><br><br>
+<div id="lettresBox"></div>
+ </form>
+ 
+ 
+</body>
+
+   <script src="rules.js"></script>
+
+</html>
